@@ -1,0 +1,2 @@
+# taisou.github.io
+blog
